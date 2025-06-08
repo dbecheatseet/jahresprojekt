@@ -1,0 +1,9 @@
+# Core Packages
+streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
+joblib
+requests
+emoji

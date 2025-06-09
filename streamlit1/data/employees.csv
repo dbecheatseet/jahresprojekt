@@ -1,0 +1,8 @@
+employee_id,name,skills,target_occupation,years_of_experience,experience_level
+EMP001,Anna Müller,http://data.europa.eu/esco/skill/0005c151-5b5a-4a66-8aac-60e734beb1ab,http://data.europa.eu/esco/occupation/0e216d47-fc12-43e9-8953-ad8ba11f4b96,3.5,Intermediate
+EMP002,Ben Schmidt,http://data.europa.eu/esco/skill/S3.2;http://data.europa.eu/esco/skill/S4.1,,5.0,Expert
+EMP003,Clara Weber,http://data.europa.eu/esco/skill/S5.2;http://data.europa.eu/esco/skill/S6.1,http://data.europa.eu/esco/occupation/67890,1.0,Beginner
+EMP004,David Klein,http://data.europa.eu/esco/skill/S7.3,http://data.europa.eu/esco/occupation/54321,7.0,Expert
+EMP005,Emma Fischer,http://data.europa.eu/esco/skill/S8.1;http://data.europa.eu/esco/skill/S9.2;http://data.europa.eu/esco/skill/S10.4,,2.0,Beginner
+EMPD53C9772,Ali Copurkuyu,http://data.europa.eu/esco/skill/8622f74f-61b7-4664-862a-7c1dea8041f0;http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389;http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7;http://data.europa.eu/esco/skill/4b3c8605-819d-4b38-83fc-f23663e78dc9,,0.0,Beginner
+EMP335A9B7B,Süleyman Omurca,http://data.europa.eu/esco/skill/4b3c8605-819d-4b38-83fc-f23663e78dc9;http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9;http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742;http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c;http://data.europa.eu/esco/skill/ccb0809c-d045-4621-82f7-192b9e89a4f2;http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0,,0.0,Beginner
